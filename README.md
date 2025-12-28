@@ -19,4 +19,4 @@ label - the category name
 I used a pretrained ResNet50 as the base CNN model and apply the techniques including:  
 Data Augmentation, SGDmomentum, CosineAnnealingWarmRestarts 
 to achieve more than 90% accuracy within 50 epoches.  
-The training process runs on my personal RTX Geforce 4050.  
+The training process runs on my NVIDIA GeForce RTX 4050 Laptop GPU.  
